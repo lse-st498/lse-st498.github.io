@@ -8,7 +8,7 @@ Programme: [MSc in Data Science](http://www.lse.ac.uk/Statistics/Study/MSc-progr
 ### LSE supervisors
 
 * [Yining Chen](mailto:y.chen101@lse.ac.uk), Department of Statistics
-* [Xinghao Xiao](mailto:x.qiao), Department of Statistics
+* [Xinghao Qiao](mailto:x.qiao), Department of Statistics
 * [Milan Vojnovic](mailto:m.vojnovic@lse.ac.uk), Department of Statistics
 
 
