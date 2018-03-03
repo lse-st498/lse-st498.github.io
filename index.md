@@ -1,6 +1,8 @@
 ![LSE](images/lse-logo.jpg) 
 # ST448 Capstone Projects
 
+[MSc in Data Science](http://www.lse.ac.uk/Statistics/Study/MSc-programmes/MSc-Data-Science)
+
 ### 2018
 
 ### LSE supervisors
